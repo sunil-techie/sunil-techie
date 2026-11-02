@@ -1,23 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sunil 👋
 
-**Technical Delivery Leader | Ecommerce & Shopify Platforms | Engineering Team Leadership**
+**Lead Developer | WordPress, WooCommerce and Shopify | Berlin**
 
-*Bridging architecture, engineering, and delivery — 15+ yrs in ecommerce, AI-assisted development advocate*
+I build and lead WordPress, WooCommerce and Shopify projects. 15+ years of experience, teams of up to 22. One result: a client store from 9s to under 3s page load.
 
-### 🧰 Core Skills
-- **Delivery & Process:** Agile & Scrum, sprint planning, refinements, risk & dependency management, stakeholder reporting
-- **Platforms:** Shopify, Magento, WooCommerce, WordPress
-- **AI-Assisted Delivery:** ChatGPT, Claude, Cursor AI, GitHub Copilot, Atlassian Rovo, Figma Make AI — using agentic, multi-step workflows and critically reviewing output, not just accepting it
+### What I work with
 
-### 🌱 Currently Exploring
-- Hands-on practice with modern web stacks (Node.js / TypeScript) using AI pair-programming tools
-- Documenting AI-assisted delivery workflows as repeatable playbooks
-- German language (A2 → B1) ahead of relocating to Germany in August 2026
+- **WordPress and WooCommerce:** custom themes, plugins, hooks, REST API (PHP, JavaScript, MySQL)
+- **Shopify:** custom themes and sections, Liquid, metafields, apps (HTML/CSS, JavaScript)
+- **Performance and tracking:** caching, Core Web Vitals, GA4
+- **Architecture:** for example a six-site WordPress Multisite network under one super admin
 
-### 📌 What's in this profile
-Pinned repos below cover delivery playbooks, AI-assisted workflow case studies, and project write-ups from my work in ecommerce platform delivery.
+### Currently
 
-### 📫 Reach me
+- Publishing open source WordPress and Shopify examples (see pinned repositories)
+- Learning German (A2)
+- Open to Lead Developer and Senior WordPress or Shopify Developer roles in Germany and remote Europe
+
+### Reach me
+
+- Website: [sunilpatel.online](https://sunilpatel.online/)
 - LinkedIn: [linkedin.com/in/sunil-techie](https://linkedin.com/in/sunil-techie)
-- Website: https://sunilpatel.online/
 - Email: sunilpatel.webdev@gmail.com
